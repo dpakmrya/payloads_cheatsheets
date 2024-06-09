@@ -1,1 +1,1 @@
-# xss_payloads
+MULTIPLE PAYLOADS CHEATSHEETS
